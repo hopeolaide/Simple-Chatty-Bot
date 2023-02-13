@@ -1,1 +1,1 @@
-A *Simple Chat Bot* project created using java.
+A basic chat bot project created using java.
